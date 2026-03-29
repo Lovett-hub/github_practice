@@ -1,6 +1,12 @@
 so the total commands we learned so far are;
 1. git init ---> to create/initialize an empty git VCs
 2. git status --> to check the current status 
-3. git add filename --> untracked to staged
+3. git add filename --> untracked to staged 
 4. git commit -m "message" --> staged to tracked
 5. git restore filename --> used to bring back the deleted files 
+ git status
+ git remote add origin https://github.com/Lovett-hub/github_practice.git
+git remote set -url origin https://@github.com/Lovett-hub/github_practice.git
+git remote set-url https://@github.com/Lovett-hub/github_practice.git
+git clone https://github.com/Lovett-hub/github_practice.git
+ 
