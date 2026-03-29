@@ -9,4 +9,10 @@ so the total commands we learned so far are;
 git remote set -url origin https://@github.com/Lovett-hub/github_practice.git
 git remote set-url https://@github.com/Lovett-hub/github_practice.git
 git clone https://github.com/Lovett-hub/github_practice.git
+
+git add git_commands.txt
+ git status
+  git commit -m "Added new commands"
+ git status
+  git push origin master
  
